@@ -1,0 +1,26 @@
+{
+  "name": "restful",
+  "version": "1.0.0",
+  "description": "API building ",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louistanntt/nonoliusm.git"
+  },
+  "author": "Tai Nguyen Tan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/louistanntt/nonoliusm/issues"
+  },
+  "homepage": "https://github.com/louistanntt/nonoliusm#readme"
+}
